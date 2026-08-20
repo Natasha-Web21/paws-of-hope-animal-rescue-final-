@@ -1,0 +1,175 @@
+# Paws of Hope Animal Rescue
+
+## Student Information
+
+- **Name:** Natasha Mabija
+- **Student Number:** 10505231
+- **Module:** Web Development (Introduction) – WEDE5020
+- **Institution:** Rosebank College (The Independent Institute of Education)
+
+## Project Overview
+
+Paws of Hope Animal Rescue is a non-profit animal rescue organisation focused on helping abandoned, neglected and vulnerable animals find safe, caring and loving homes.
+
+The website provides visitors with information about the organisation, its mission, adoption and animal welfare services. It also provides an enquiry form and contact information so that visitors can communicate with the organisation.
+
+## Website Goals and Objectives
+
+The main goals of the website are to:
+
+- Provide information about Paws of Hope Animal Rescue.
+- Create an online presence for the organisation.
+- Promote animal adoption and responsible pet ownership.
+- Provide information about the organisation's services.
+- Allow visitors to submit enquiries.
+- Provide clear and accessible contact information.
+- Encourage community involvement and support for animal welfare.
+
+## Target Audience
+
+The website is aimed at:
+
+- People interested in adopting animals.
+- Animal lovers.
+- Potential volunteers.
+- Potential donors and supporters.
+- People looking for information about animal welfare.
+- Members of the local community.
+
+## Website Pages
+
+The website consists of five main pages:
+
+1. Home
+2. About Us
+3. Adoption & Services
+4. Enquiry
+5. Contact
+
+## Sitemap
+
+Paws of Hope Animal Rescue
+|
+|-- Home
+|   |-- index.html
+|
+|-- About Us
+|   |-- about.html
+|
+|-- Adoption & Services
+|   |-- services.html
+|
+|-- Enquiry
+|   |-- enquiry.html
+|
+|-- Contact
+    |-- contact.html
+
+## Key Features and Functionality
+
+The website includes:
+
+- A consistent navigation menu across the website.
+- Information about Paws of Hope Animal Rescue.
+- Information about animal adoption and services.
+- An enquiry form for visitors.
+- Contact information for the organisation.
+- Semantic HTML5 structure.
+- External CSS styling.
+- Responsive design structure.
+- Links between the five website pages.
+
+## Technologies Used
+
+The project uses:
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- GitHub
+
+## Website Design
+
+The website uses a warm brown and cream colour scheme to create a welcoming and trustworthy appearance that is appropriate for an animal rescue organisation.
+
+The design aims to provide a simple and user-friendly experience for visitors.
+
+## Project File Structure
+
+The project currently contains:
+
+- `index.html` – Home page
+- `about.html` – About Us page
+- `services.html` – Adoption & Services page
+- `enquiry.html` – Enquiry page
+- `contact.html` – Contact page
+- `style.css` – External stylesheet
+- `images/` – Folder for website images and other visual assets
+- `css/` – CSS folder created for project organisation
+
+## Sitemap Structure
+
+The website follows a simple five-page structure:
+
+Home
+- About Us
+- Adoption & Services
+- Enquiry
+- Contact
+
+## Timeline and Milestones
+
+### Phase 1 – Foundation
+
+- Select two potential organisations.
+- Select Paws of Hope Animal Rescue as the organisation for the website.
+- Plan the website structure.
+- Create the five main HTML pages.
+- Create website navigation.
+
+### Phase 2 – Website Development
+
+- Develop the HTML structure.
+- Create the external CSS stylesheet.
+- Apply the website's visual design.
+- Add images and other appropriate website assets.
+
+### Phase 3 – Testing and Finalisation
+
+- Test navigation between all website pages.
+- Check the website structure and links.
+- Correct errors found during testing.
+- Update the GitHub repository.
+- Prepare the project for final submission.
+
+## Changelog
+
+### Version 1.0
+
+- Created the Paws of Hope Animal Rescue project.
+- Created the Home page.
+- Created the About Us page.
+- Created the Adoption & Services page.
+- Created the Enquiry page.
+- Created the Contact page.
+- Added navigation between website pages.
+- Added semantic HTML structure.
+- Added an enquiry form.
+- Added contact information.
+- Created an external CSS stylesheet.
+- Added a responsive CSS structure.
+- Created the project README file.
+
+## Author
+
+Rosebank College Student Project
+
+## References
+
+*(Update this list with the actual sources you used for images, icons, fonts, code snippets, or any text content you referenced. Use Harvard style, adapted for the IIE, as required by the referencing rubric. Example format below.)*
+
+- Author/Organisation, Year. *Title of source*. [online] Available at: URL [Accessed date].
+
+## Project Purpose
+
+This website is being developed as part of the WEDE5020 Web Development project and demonstrates the planning and development of a website for a non-profit organisation.

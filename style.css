@@ -1,0 +1,168 @@
+/* ===========================
+   Paws of Hope Animal Rescue
+   Base Stylesheet
+   =========================== */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #fdf6ee;
+    color: #4b3621;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background-color: #6f4e37;
+    color: #fdf6ee;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: #f1e4d6;
+}
+
+/* Navigation */
+nav {
+    background-color: #a9744f;
+    padding: 14px 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 6px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: #fdf6ee;
+}
+
+/* Images */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+/* Main content */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff;
+    border: 1px solid #e4d4c3;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+section h2 {
+    color: #6f4e37;
+    margin-bottom: 12px;
+    border-bottom: 2px solid #d9b48f;
+    padding-bottom: 6px;
+}
+
+section h3 {
+    color: #a9744f;
+    margin: 14px 0 8px;
+}
+
+ul, ol {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #e4d4c3;
+    margin: 10px 0;
+}
+
+/* Forms */
+form {
+    max-width: 500px;
+}
+
+label {
+    font-weight: bold;
+    color: #6f4e37;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 6px;
+    border: 1px solid #d9b48f;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #6f4e37;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #a9744f;
+}
+
+/* Map */
+iframe {
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #6f4e37;
+    color: #f1e4d6;
+    text-align: center;
+    padding: 16px;
+    margin-top: 20px;
+}
+
+/* Basic responsiveness */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    nav a {
+        display: inline-block;
+        margin: 4px;
+        font-size: 0.9rem;
+    }
+}
